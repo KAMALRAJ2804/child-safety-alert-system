@@ -27,5 +27,4 @@ To improve child safety by monitoring vehicle interiors using sensor-based detec
 - Functional Testing
 - Regression Testing
 
-## Note
-Project details and design are explained in the uploaded presentation file.
+[Child-Safety-Alert-System.pptx.pptx](https://github.com/user-attachments/files/27297944/Child-Safety-Alert-System.pptx.pptx)
